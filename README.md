@@ -1,0 +1,73 @@
+# Curso-CSS3-Avancado
+Arquivos do Curso CSS3 Avançado - Projeto Web Responsive da plataforma Udemy
+
+## Conteúdo do curso:
+- Apresentação do curso
+  - Apresentação do curso
+  - Informações importantes para começar o curso
+  - Software Necessário
+  - Como baixar os arquivos limpos
+  - Link para download dos exercícios limpos
+  - Como configurar os arquivos limpos no Brackets
+- Transform e Transitions
+  - Apresentação
+  - Transform básico (scale, translate, rotate e skew)
+  - Transform origin
+  - Transitions
+  - Movendo um segundo elemento
+- Projeto de efeito surpresa
+  - Apresentação do projeto
+  - Como funciona o efeito
+  - Adicionando os códigos
+  - Melhorando a opacidade
+  - Apresentando Clip-path
+- Fundamentos de Web Responsive
+  - Apresentação à Media Type e Media Queries
+  - Apresentação - Como organizar seus arquivos do site
+  - Aula prática do uso de Media Types
+  - Criar sua primeira regra de Media Queries
+  - Adaptando o layout para desktop e tablet
+  - Corrigindo o aside
+  - Adaptando o layout para desktop, tablet e smartphone
+  - Como criar um menu diferente para desktop e smartphone
+  - Como criar um arquivo global de css com todas as regras
+- Arredondar elementos
+  - Aplicar borda simples
+  - Aplicar bordas separadas
+  - Aplicar borda para virar um círculo
+  - Aplicar uma máscara usando border-radius
+  - Aplicar sombra interna na máscara
+- Sombra avançada de elementos
+  - Aplicar sombra apenas embaixo
+  - Aplicar sombra tipo papel (de um lado)
+  - Aplicar sombra tipo papel dos dois lados
+  - Aplicar sombra no centro
+- Como dividir o texto em múltiplas colunas
+  - Apresentação da propriedade de multicolunas
+  - Como dividir o texto em 2 colunas
+  - Como dividir o texto em 3 colunas
+  - Adicionar imagens e títulos
+  - Adicionar filtro por orientação
+- Web Responsive - Backgrounds redimensionáveis
+  - Background Size
+  - Background Position
+  - Background adaptado com Media Query
+- Web Responsive - Elementos redimensionáveis com Object Fit
+  - Apresentação do Object Fit
+  - Compreendendo o Object Fit na prática
+  - Criando Background de capa com Object Fit
+  - Projeto de Thumbnail com Object Fit - Aula 1
+  - Projeto de Thumbnail com Object Fit - Aula 2
+  - Projeto de Thumbnail com Object Fit - Aula 3
+  - Projeto de Thumbnail com Object Fit - Aula 4
+- Web Resposnsive - Menu
+  - Apresentação do exercício da unidade
+  - Criar menu responsivo - parte 1
+  - Criar menu responsivo - parte 2
+  - Criar menu responsivo - parte 3
+  - Criar menu responsivo - parte 4
+- Desenvolvimento de um Projeto Web Responsive
+  - Apresentação do projeto
+  - Adicionar um texto de capa
+- Dicas interessantes de CSS3
+  - Trabalhar com opacidade de elementos
