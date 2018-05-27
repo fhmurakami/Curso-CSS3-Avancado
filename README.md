@@ -2,26 +2,26 @@
 Arquivos do Curso CSS3 Avançado - Projeto Web Responsive da plataforma Udemy
 
 ## Conteúdo do curso:
-- Apresentação do curso
+- Unidade 01 - Apresentação do curso
   - Apresentação do curso
   - Informações importantes para começar o curso
   - Software Necessário
   - Como baixar os arquivos limpos
   - Link para download dos exercícios limpos
   - Como configurar os arquivos limpos no Brackets
-- Transform e Transitions
+- Unidade 02 - Transform e Transitions
   - Apresentação
   - Transform básico (scale, translate, rotate e skew)
   - Transform origin
   - Transitions
   - Movendo um segundo elemento
-- Projeto de efeito surpresa
+- Unidade 03 - Projeto de efeito surpresa
   - Apresentação do projeto
   - Como funciona o efeito
   - Adicionando os códigos
   - Melhorando a opacidade
   - Apresentando Clip-path
-- Fundamentos de Web Responsive
+- Unidade 04 - Fundamentos de Web Responsive
   - Apresentação à Media Type e Media Queries
   - Apresentação - Como organizar seus arquivos do site
   - Aula prática do uso de Media Types
@@ -31,28 +31,28 @@ Arquivos do Curso CSS3 Avançado - Projeto Web Responsive da plataforma Udemy
   - Adaptando o layout para desktop, tablet e smartphone
   - Como criar um menu diferente para desktop e smartphone
   - Como criar um arquivo global de css com todas as regras
-- Arredondar elementos
+- Unidade 05 - Arredondar elementos
   - Aplicar borda simples
   - Aplicar bordas separadas
   - Aplicar borda para virar um círculo
   - Aplicar uma máscara usando border-radius
   - Aplicar sombra interna na máscara
-- Sombra avançada de elementos
+- Unidade 06 - Sombra avançada de elementos
   - Aplicar sombra apenas embaixo
   - Aplicar sombra tipo papel (de um lado)
   - Aplicar sombra tipo papel dos dois lados
   - Aplicar sombra no centro
-- Como dividir o texto em múltiplas colunas
+- Unidade 07 - Como dividir o texto em múltiplas colunas
   - Apresentação da propriedade de multicolunas
   - Como dividir o texto em 2 colunas
   - Como dividir o texto em 3 colunas
   - Adicionar imagens e títulos
   - Adicionar filtro por orientação
-- Web Responsive - Backgrounds redimensionáveis
+- Unidade 08 - Web Responsive - Backgrounds redimensionáveis
   - Background Size
   - Background Position
   - Background adaptado com Media Query
-- Web Responsive - Elementos redimensionáveis com Object Fit
+- Unidade 09 - Web Responsive - Elementos redimensionáveis com Object Fit
   - Apresentação do Object Fit
   - Compreendendo o Object Fit na prática
   - Criando Background de capa com Object Fit
@@ -60,14 +60,14 @@ Arquivos do Curso CSS3 Avançado - Projeto Web Responsive da plataforma Udemy
   - Projeto de Thumbnail com Object Fit - Aula 2
   - Projeto de Thumbnail com Object Fit - Aula 3
   - Projeto de Thumbnail com Object Fit - Aula 4
-- Web Resposnsive - Menu
+- Unidade 10 - Web Resposnsive - Menu
   - Apresentação do exercício da unidade
   - Criar menu responsivo - parte 1
   - Criar menu responsivo - parte 2
   - Criar menu responsivo - parte 3
   - Criar menu responsivo - parte 4
-- Desenvolvimento de um Projeto Web Responsive
+- Unidade 11 - Desenvolvimento de um Projeto Web Responsive
   - Apresentação do projeto
   - Adicionar um texto de capa
-- Dicas interessantes de CSS3
+- Unidade 12 - Dicas interessantes de CSS3
   - Trabalhar com opacidade de elementos
